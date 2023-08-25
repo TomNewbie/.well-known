@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "fr.smarquis.applinks",
+      "package_name": "com.example.mobile",
       "sha256_cert_fingerprints": [
-        "6B:41:26:A6:1E:D8:BD:91:D3:8B:57:10:5F:07:5C:2D:AB:3E:26:A4:D1:3C:9C:97:15:78:9E:0D:56:0A:CE:DC"
+        "DE:EE:5B:7F:2D:BE:15:64:57:7A:89:C7:8B:0A:54:10:A4:22:FA:1A:F7:84:AC:3C:1C:2F:87:FD:32:74:A3:A7"
       ]
     }
   }
